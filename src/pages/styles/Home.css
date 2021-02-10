@@ -1,0 +1,51 @@
+.Home{
+   background: url('../../images/stars.svg'), #1B1B25;
+   height: 100vh;
+}
+
+.Home__right-image{
+   width: 87%;
+   padding-top: 6vw;
+}
+
+.Home__left{
+   display: flex;
+   padding-top: 2vw;
+   justify-content: center;
+   align-items: center;
+}
+
+.Home__left-text{
+   color: white;
+}
+
+.Home__left-button-wrapper{
+   text-align: center;
+}
+
+.Home__left-button{
+   box-shadow: inset 0px -3px 0px 0px #58902D;
+}
+
+.Home__left-button-lost{
+   margin-top: 5px;
+   box-shadow: inset 0px -3px 0px 0px #801f1f;
+}
+
+/** NOT FOUND CSS */
+.NotFound__left-title{
+   font-size: 56px;
+}
+
+.NotFound__left-button-wrapper{
+   text-align: right;
+}
+
+.NotFound__right-image{
+   width: 87%;
+}
+
+.NotFound__left-button-wrapper-home{
+   margin-top: 5px;
+   text-align: end;
+}

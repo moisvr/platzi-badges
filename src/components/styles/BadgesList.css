@@ -1,0 +1,52 @@
+.BadgeList__item{
+   padding-bottom: 10px;
+   padding-top: 10px;
+   display: flex;
+   background-color: white;
+   margin-bottom: 1vw;
+   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+}
+
+.BadgeList__item-avatar{
+   display: inline;
+   text-align: center;
+   /* border-radius: 50%; */
+}
+
+.BadgeList__item-avatar-img{
+   width: 13vw;
+   padding-left: 10px;
+   position: relative;
+   /* top: 5%; */
+   border-radius: 50%;
+}
+
+.BadgeList__item-ptag{
+   font-weight: bold;
+   display: inline;
+   padding-left: 7px;
+}
+
+.BaddgeList__item-img{
+   width: 20%;
+}
+
+.BadgeList__item-text{
+   display: inline;
+   padding-left: 10px;
+   position: relative;
+   top: 1vw;
+}
+
+.BadgeList__item-twitterLogo{
+   width: 12%;
+}
+
+.BadgeList__item-twitter{
+   color: #1DA1F2;
+}
+
+.BadgeList__item-jobTitle{
+   padding-left: 7px;
+   font-style: italic;
+}
